@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+venv/
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# Python temporary files
+__pycache__/
+*.pyc
+.DS_Store
